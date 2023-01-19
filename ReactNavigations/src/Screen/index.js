@@ -1,0 +1,6 @@
+export {default as Home} from './HomeScreen/Home'
+export {default as Profile} from './ProfileScreen/Profile'
+export {default as Explore} from './ExploreScreen/Explore'
+export {default as FirstScreen} from './FirstScreen/FirstScreen'
+export {default as SecondScreen} from './SecondScreen/SecondScreen'
+export {default as ThirdScreen} from './ThirdScreen/ThirdScreen'
